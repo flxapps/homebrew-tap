@@ -1,6 +1,6 @@
 # flxapps/tap
 
-Homebrew casks for my Mac apps. So far that is [Noxbox](https://flx.es/noxbox/), a photo library in storage you own, encrypted on the device.
+Homebrew casks for my Mac apps. So far that is Noxbox, a photo library in storage you own, encrypted on the device.
 
 ```
 brew install --cask flxapps/tap/noxbox
